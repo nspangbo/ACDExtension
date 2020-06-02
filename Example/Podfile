@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'ACDExtension_Example' do
   pod 'ACDExtension', :path => '../'
+#  pod 'ACDExtension', '0.0.1'
 
   target 'ACDExtension_Tests' do
     inherit! :search_paths

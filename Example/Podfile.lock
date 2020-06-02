@@ -1,5 +1,5 @@
 PODS:
-  - ACDExtension (0.1.0)
+  - ACDExtension (0.0.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -11,7 +11,7 @@ DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
@@ -19,9 +19,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ACDExtension: 37ece26f9c227786efcd4dcc0a50f8da3facb7e9
+  ACDExtension: 76ccb667fa2efa82d4ebfbc8f4e5bb5a9d9832b3
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
-PODFILE CHECKSUM: 13213e506bce46d2888474033f52ea0c713bca8e
+PODFILE CHECKSUM: 22b4745d0c572f027979265c4df682cd0124d5aa
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.9.1
